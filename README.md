@@ -1,10 +1,10 @@
-# pose-classification
+
 # Data include videos of Taekwondo lessons
--(14)TRẦN HÙNG QUÂN	0:29	608 x 1080			https://www.youtube.com/shorts/na1C9cadh9A
--(15)Nguyễn Phan Văn Tín. CĐ. K3 Quảng Ngãi	0:35	1920 x 1080			https://www.youtube.com/watch?v=gC88MUPRvt0
--(16)Ngô Duy Lộc lớp liên thông K3 Quảng Ngãi	0:35	1280 x 720			https://www.youtube.com/watch?v=Ct8wTOVk0VQ
--(17)Võ Thị Thu Nồng - CĐLTĐH K3	0:42	1920 x 1080			https://www.youtube.com/watch?v=veVMJfeg4cc
--(18)Hồ Quốc Tú. CĐ K3 Quảng Ngãi	0:46	854 x 474			https://www.youtube.com/watch?v=ilFeQ6VZwKk
+- (14)TRẦN HÙNG QUÂN	0:29	608 x 1080			https://www.youtube.com/shorts/na1C9cadh9A
+- (15)Nguyễn Phan Văn Tín. CĐ. K3 Quảng Ngãi	0:35	1920 x 1080			https://www.youtube.com/watch?v=gC88MUPRvt0
+- (16)Ngô Duy Lộc lớp liên thông K3 Quảng Ngãi	0:35	1280 x 720			https://www.youtube.com/watch?v=Ct8wTOVk0VQ
+- (17)Võ Thị Thu Nồng - CĐLTĐH K3	0:42	1920 x 1080			https://www.youtube.com/watch?v=veVMJfeg4cc
+- (18)Hồ Quốc Tú. CĐ K3 Quảng Ngãi	0:46	854 x 474			https://www.youtube.com/watch?v=ilFeQ6VZwKk
 -(19)Bài Quyền Số 1 Taekwondo	0:34	640 x 360			https://www.youtube.com/watch?v=UW8rt45NWtc
 -(20)Lê Bá Phương	0:33	1280 x 720			https://www.youtube.com/watch?v=oVZsE0hbDJU
 -(21)Bài quyền số 1,3,5,7,9.taekwondo	0:26	1280 x 720			https://www.youtube.com/watch?v=9lnBDlt81vk

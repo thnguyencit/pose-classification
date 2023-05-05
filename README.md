@@ -67,3 +67,7 @@
 - 4: using movenet to extract the skeleton from image and save it into csv file.
 - 5: training and valadation dataset on our proposal architecture.
 - 6: deploy Deeplearning into website.
+
+
+# Some demonstrations:
+[![Watch the video](https://github.com/thnguyencit/pose-classification/blob/main/video-nen.png)](https://drive.google.com/file/d/1Abs8udIyOKUwL8jaglik1wHbvKCBYBoS/view?usp=sharing)

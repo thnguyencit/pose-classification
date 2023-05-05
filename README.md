@@ -9,12 +9,9 @@
   <p align="center">
     TAEKWONDO POSE ESTIMATION WITH DEEP LEARNING ARCHITECTURES ON ONE-DIMENSIONAL AND TWO-DIMENSIONAL DATA
     <br />
-    <a href=""><strong>Explore the docs »</strong></a>
+    
   </p>
 </div>
-
-# Some demonstrations:
-[![Watch the video](https://github.com/thnguyencit/pose-classification/blob/main/video-nen.png)](https://drive.google.com/file/d/1Abs8udIyOKUwL8jaglik1wHbvKCBYBoS/view?usp=sharing)
 
 
 <details>
@@ -62,4 +59,11 @@
 - (36)Taekwondo Poomsae 1 (Taegeuk Il Jang), 2020	0:59	1280 x 720			https://www.youtube.com/watch?v=bP_5GYMC0GQ
 - (37)Taekwondo Poomsae 1 (Taegeuk Il Jang), 2020	1:03	1280 x 720		c	https://www.youtube.com/watch?v=bP_5GYMC0GQ
 
-KTH data
+## About Our Dataset and the method to address dataset
+# the steps to perform our project
+- 1: collect the dataset.
+- 2: divide data set into 16 class.
+- 3: using FFMPEG('the leading multimedia framework able to decode, encode, transcode, mux, demux, stream, filter, and play pretty much anything that humans and machines have created') to extract frame from video.
+- 4: using movenet to extract the skeleton from image and save it into csv file.
+- 5: training and valadation dataset on our proposal architecture.
+- 6: deploy Deeplearning into website.

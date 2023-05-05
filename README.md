@@ -1,3 +1,37 @@
+<br />
+<div align="center">
+  <a href="https://user-images.githubusercontent.com/96684519/236389100-e2e9efc1-9730-43d8-9b0e-21b32fac0052.png">
+    <img src="https://user-images.githubusercontent.com/96684519/236389100-e2e9efc1-9730-43d8-9b0e-21b32fac0052.png" alt="Logo" width="200" height="200">
+  </a>
+
+  <h3 align="center">Taekwondo lesson 1 Dataset </h3>
+
+  <p align="center">
+    TAEKWONDO POSE ESTIMATION WITH DEEP LEARNING ARCHITECTURES ON ONE-DIMENSIONAL AND TWO-DIMENSIONAL DATA
+    <br />
+    <a href=""><strong>Explore the docs »</strong></a>
+  </p>
+</div>
+
+
+<details>
+  <summary>Dataset is used in research</summary>
+  <ol>
+    <li>
+      <a >Our dataset</a>
+      <ul>
+        <li><a href="https://ctueduvn-my.sharepoint.com/personal/nthai_cit_ctu_edu_vn/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fnthai%5Fcit%5Fctu%5Fedu%5Fvn%2FDocuments%2Farchived%2Dresearch%2Dpaper%2Dmaster%2DPhD%2Fdetai%2Dnckh%2Dsv%2FTSV2022%2D33%2Dhab1910216%40student%2Ectu%2Eedu%2Evn%2Ftsv2022%2D33%2Dshared%2Dfiles">TAEKWONDO LESSON 1 (click here)</a></li>
+      </ul>
+    </li>
+    <li>
+      <a >KTH (Human action dataset)</a>
+      <ul>
+        <li><a href="https://www.csc.kth.se/cvap/actions/">Include: walking, jogging, running, boxing, hand waving and hand clapping label (click here)</a></li>
+      </ul>
+    </li>
+    
+  </ol>
+</details>
 
 # Data include videos of Taekwondo lessons
 - (14)TRẦN HÙNG QUÂN	0:29	608 x 1080			https://www.youtube.com/shorts/na1C9cadh9A
@@ -24,3 +58,5 @@
 - (35)Taegeuk 1 -  Taegeuk Il Jang	1:52	1280 x 720			https://www.youtube.com/watch?v=WvnQmtjBmo8
 - (36)Taekwondo Poomsae 1 (Taegeuk Il Jang), 2020	0:59	1280 x 720			https://www.youtube.com/watch?v=bP_5GYMC0GQ
 - (37)Taekwondo Poomsae 1 (Taegeuk Il Jang), 2020	1:03	1280 x 720		c	https://www.youtube.com/watch?v=bP_5GYMC0GQ
+
+KTH data

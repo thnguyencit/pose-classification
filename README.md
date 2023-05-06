@@ -70,4 +70,9 @@
 
 
 # Some demonstrations:
+illustrative dataset
+<br/>
+<img src="https://user-images.githubusercontent.com/96684519/236462342-2ca2c184-5b8d-4737-ac44-cae09b539561.png" alt="Logo" width="600" height="400">
+
+
 [![Watch the video](https://github.com/thnguyencit/pose-classification/blob/main/video-nen.png)](https://drive.google.com/file/d/1Abs8udIyOKUwL8jaglik1wHbvKCBYBoS/view?usp=sharing)

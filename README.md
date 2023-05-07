@@ -76,4 +76,6 @@ illustrative dataset
 
 ## demo Application
 
-[![Watch the video](https://github.com/thnguyencit/pose-classification/blob/main/video-nen.png)](https://www.youtube.com/watch?v=iG1FJhY35FY)
+Please click into below image!
+
+[![Watch the video](https://github.com/thnguyencit/pose-classification/blob/main/video-nen.png)](https://www.youtube.com/watch?v=Z3EFPigC5C0)

@@ -60,7 +60,7 @@
 - (37)Taekwondo Poomsae 1 (Taegeuk Il Jang), 2020	1:03	1280 x 720		c	https://www.youtube.com/watch?v=bP_5GYMC0GQ
 
 ## About Our Dataset and the method to address dataset
-# the steps to perform our project
+# The steps to perform the experiments
 - 1: collect the dataset.
 - 2: divide data set into 16 class.
 - 3: using FFMPEG('the leading multimedia framework able to decode, encode, transcode, mux, demux, stream, filter, and play pretty much anything that humans and machines have created') to extract frame from video.
@@ -70,7 +70,7 @@
 
 
 # Some demonstrations:
-illustrative dataset
+Dataset
 <br/>
 <img src="https://user-images.githubusercontent.com/96684519/236462342-2ca2c184-5b8d-4737-ac44-cae09b539561.png" alt="Logo" width="600" height="400">
 

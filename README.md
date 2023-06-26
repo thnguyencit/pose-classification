@@ -59,7 +59,6 @@
 - (36)Taekwondo Poomsae 1 (Taegeuk Il Jang), 2020	0:59	1280 x 720			https://www.youtube.com/watch?v=bP_5GYMC0GQ
 - (37)Taekwondo Poomsae 1 (Taegeuk Il Jang), 2020	1:03	1280 x 720		c	https://www.youtube.com/watch?v=bP_5GYMC0GQ
 
-## About Our Dataset and the method to address dataset
 # The steps to perform the experiments
 - 1: collect the dataset.
 - 2: divide data set into 16 class.

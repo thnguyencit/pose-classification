@@ -20,7 +20,7 @@
     <li>
       <a >Our dataset</a>
       <ul>
-        <li><a href="[https://ctueduvn-my.sharepoint.com/personal/nthai_cit_ctu_edu_vn/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fnthai%5Fcit%5Fctu%5Fedu%5Fvn%2FDocuments%2Farchived%2Dresearch%2Dpaper%2Dmaster%2DPhD%2Fdetai%2Dnckh%2Dsv%2FTSV2022%2D33%2Dhab1910216%40student%2Ectu%2Eedu%2Evn%2Ftsv2022%2D33%2Dshared%2Dfiles](https://ctueduvn-my.sharepoint.com/:f:/g/personal/nthai_cit_ctu_edu_vn/Es8GztxhDqFGouo2RIaWCCgBsJ_IJhVqzOVKYuIU_bj-Yw?e=WCDVkF)">TAEKWONDO LESSON 1 (click here)</a></li>
+        <li><a href="https://ctueduvn-my.sharepoint.com/personal/nthai_cit_ctu_edu_vn/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fnthai%5Fcit%5Fctu%5Fedu%5Fvn%2FDocuments%2Fcongtac%2Dnghiencuu%2DDH%2DThS%2DTS%2Fstudent%2Dundergrade%2Dnckh%2FTSV2022%2D33%2Dhab1910216%40student%2Ectu%2Eedu%2Evn%2Ftsv2022%2D33%2Dshared%2Dfiles">TAEKWONDO LESSON 1 (click here)</a></li>
       </ul>
     </li>
     <li>
